@@ -2,12 +2,11 @@
 // import YotubeImg from "../asset/Project1.jpg";
 // import EcommerceImg from "../asset/Project2.jpg";
 import AboutImg from "../asset/AboutBgImage.png";
-import WeatherApp from "../asset/Project3.png"
+import WeatherApp from "../asset/Project3.png";
 
 //svg's
 import op1 from "../asset/OP1.svg";
 import op2 from "../asset/OP2.svg";
-import op3 from "../asset/OP3.svg";
 import github from "../asset/icon_github_.svg";
 import linkedin from "../asset/icon _linkedin_.svg";
 import gmail from "../asset/icon_gmail_.svg";

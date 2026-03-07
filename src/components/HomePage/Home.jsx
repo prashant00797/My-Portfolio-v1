@@ -1,10 +1,6 @@
-//dependency
-import React from "react";
-
 //components
 import { Header } from "../HeroSection/Header";
 import { Work } from "../Work/Work";
-import { OtherProjects } from "../OtherProjects/OtherProjects";
 import { Contact } from "../Contact/Contact";
 import { TopBtn } from "../../Modules/Top/TopBtn";
 

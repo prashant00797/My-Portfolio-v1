@@ -12,9 +12,9 @@ import { Footer } from "./components/Footer/Footer";
 
 //css imports
 import "./App.css";
-import { Loading } from "./Modules/Loading/Loading";
 
 function App() {
+  // eslint-disable-next-line no-unused-vars
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
