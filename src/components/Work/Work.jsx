@@ -1,6 +1,6 @@
 //dependency
 import React from "react";
-import { map } from "loadsh";
+import { map } from "lodash";
 import { Image } from "react-shimmer";
 
 //local dependency
