@@ -26,9 +26,6 @@ const renderLeftNavbar = () => {
 const renderRightNavbar = () => {
   return (
     <div className="ui-navbar__right">
-      <Link className="ui-navbar__right__links" to="/about">
-        {NavbarConstant.ABOUT}
-      </Link>
       <LinkScroll
         spy={true}
         smooth={true}
